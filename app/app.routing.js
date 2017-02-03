@@ -1,6 +1,0 @@
-"use strict";
-exports.AppRoutes = [
-    { path: "", redirectTo: "home", pathMatch: "full" },
-    { path: '**', redirectTo: 'home' }
-];
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLnJvdXRpbmcuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJhcHAucm91dGluZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQWEsaUJBQVMsR0FBRztJQUNyQixFQUFDLElBQUksRUFBQyxFQUFFLEVBQUUsVUFBVSxFQUFFLE1BQU0sRUFBRSxTQUFTLEVBQUMsTUFBTSxFQUFDO0lBQy9DLEVBQUMsSUFBSSxFQUFDLElBQUksRUFBRSxVQUFVLEVBQUUsTUFBTSxFQUFDO0NBQ2xDLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgQXBwUm91dGVzID0gW1xyXG4gICAge3BhdGg6XCJcIiwgcmVkaXJlY3RUbzogXCJob21lXCIsIHBhdGhNYXRjaDpcImZ1bGxcIn0sXHJcbiAgICB7cGF0aDonKionLCByZWRpcmVjdFRvOiAnaG9tZSd9XHJcbl0iXX0=
