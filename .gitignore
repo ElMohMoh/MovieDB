@@ -49,4 +49,3 @@ hooks
 node_modules
 platforms
 *.js
-app/main.js

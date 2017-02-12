@@ -4,20 +4,3 @@
 //dependencies {
 //	compile 'com.android.support:recyclerview-v7:+'
 //}
-
-android {  
-  defaultConfig {  
-    generatedDensities = []
-    applicationId = "org.nativescript.MovieDB" 
-    
-    //override supported platforms
-    // ndk {
-    //       abiFilters.clear()
-    //   		abiFilters "armeabi-v7a"
- 		// }
-  
-  }  
-  aaptOptions {  
-    additionalParameters "--no-version-vectors"  
-  }  
-} 

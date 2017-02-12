@@ -1,14 +1,8 @@
-﻿action-bar {
-  background-color: #053140;
-  color: white;
-}
-label {
-  margin: 20;
-}
 .drawer-content {
   background-color: #053140;
-  color: white;
+  color: #ffffff;
   padding-top: 20;
+  width:300;
 }
 .drawer-content label {
   font-size: 20;
