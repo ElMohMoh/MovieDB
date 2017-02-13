@@ -1,7 +1,8 @@
-<grid-layout class="drawer-content">
-  <stack-layout>
-    <label text="Home" tap="navigate" class="{{ selectedPage == 'home' ? 'selected' : '' }}" />
-    <label text="About" tap="navigate" class="{{ selectedPage == 'about' ? 'selected' : '' }}" />
-    <label text="Settings" tap="navigate" class="{{ selectedPage == 'settings' ? 'selected' : '' }}" />
-  </stack-layout>
-</grid-layout>
+<GridLayout class="drawer-content">
+  <StackLayout>
+    <Label text="\uf015; Home" tap="navigate" class="{{ selectedPage == 'home' ? 'selected' : '' }}" />
+    <Label text="About" tap="navigate" class="{{ selectedPage == 'about' ? 'selected' : '' }}" />
+    <Label text="Settings" tap="navigate" class="{{ selectedPage == 'settings' ? 'selected' : '' }}" />
+    <Label text="Me" tap="navigate" class="{{ selectedPage == 'me' ? 'selected' : '' }}" />
+  </StackLayout>
+</GridLayout>

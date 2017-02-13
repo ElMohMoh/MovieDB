@@ -1,5 +1,5 @@
 ﻿action-bar {
-  background-color: #053140;
+  background-color: #000000;
   color: white;
 }
 label {
@@ -7,13 +7,23 @@ label {
 }
 .drawer-content {
   background-color: #053140;
-  color: white;
+  color:#FFFFFF;
   padding-top: 20;
+  font-family: 'FontAwesome';
+}
+
+.body-content{
+  background-color: #212121;
+  color:#FFFFFF;
 }
 .drawer-content label {
   font-size: 20;
   margin: 10 0 15 25;
 }
 .selected {
-  color: #e4ba4e;
+  color: #212121;
+}
+
+.fa {
+  font-family: FontAwesome, fontawesome-webfont;
 }
